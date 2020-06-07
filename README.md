@@ -7,6 +7,11 @@ As VIT cancelled the FATs (Final Assessment Test) for the Winter Semester (2019-
 
 ![Alt text](https://github.com/Harika-BV/VITMarksCalculator/blob/master/Screenshot.JPG?raw=true "Screenshot")
 
+
+### Pre-requisite
+- Python
+- Tkinter
+
 ## Disclaimer
 - All the calculations are made according to my understanding of the result processing procedures.
 - Its just to predict our final score, for final grades wait until university release officially.
